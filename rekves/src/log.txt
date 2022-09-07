@@ -1,5 +1,0 @@
-setting headersContent-Description: File Transfer
-Content-Type: application/octet-stream
-Content-Disposition: attachment; filename=text.txt
-Pregma: public
-Content-Length: 30785
